@@ -4,3 +4,4 @@ trash
 Chapter 1
 ---------
  - Test push
+ - Signing commits
